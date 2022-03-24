@@ -9,9 +9,12 @@ Web mining for the [One Piece Wiki/Fandom](https://onepiece.fandom.com/wiki/One_
 - Anime Episode info
 - Story Arcs info (wip)
 
-## Installation
+## Dependencies
 
->NOTE: Requires fish shell.
+- [fish shell](https://fishshell.com/)
+- [htmlq](https://github.com/mgdm/htmlq)
+
+## Installation
 
 ```sh
 curl -s https://raw.githubusercontent.com/williamd1k0/op.fish/main/op.fish > ~/.config/fish/functions/op.fish
